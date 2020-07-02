@@ -26,4 +26,4 @@ read, write, malloc, free, time, getpid, random,srandom and getline.
 
 ## Examples
 
-![ScreenShot](https://raw.github.com/L0rentz/Dante/master/examples/example.png)
+![ScreenShot](https://raw.github.com/L0rentz/Matchstick/master/examples/example.png)
